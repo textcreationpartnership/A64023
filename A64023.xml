@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters the one, sent by the lord mayor, aldermen, and common council of London, to His Excellency, the Lord Gen. Monck, by their sword-bearer, which letter was sent in answer to a letter formerly publish'd, and sent to the common council by His Excellency, delivered to them by Col. Markham, and Col. Atkins : the other, His Excellencies answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64023</idno>
+            <idno type="STC">Wing T3481</idno>
+            <idno type="STC">ESTC R38966</idno>
+            <idno type="EEBO-CITATION">18201967</idno>
+            <idno type="OCLC">ocm 18201967</idno>
+            <idno type="VID">107033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1133:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters the one, sent by the lord mayor, aldermen, and common council of London, to His Excellency, the Lord Gen. Monck, by their sword-bearer, which letter was sent in answer to a letter formerly publish'd, and sent to the common council by His Excellency, delivered to them by Col. Markham, and Col. Atkins : the other, His Excellencies answer thereunto.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>[2], 6, p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107033:1"/>
+            <pb facs="tcp:107033:1" rendition="simple:additions"/>
+            <p>TWO LETTERS, <hi>The One,</hi> Sent by the Lord <hi>Mayor, Aldermen,</hi> and <hi>Common Council</hi> of LONDON, To his Excellency, The Lord Gen. Monck, By Their Sword-Bearer: Which Letter was ſent in Anſwer to a Letter formerly pub<g ref="char:EOLhyphen"/>liſh'd, and ſent to the <hi>Common Council</hi> by his <hi>Excellency.</hi>
+            </p>
+            <p>Delivered to them by Col. <hi>Markham,</hi> and Col. <hi>Atkins.</hi>
+            </p>
+            <p>The other, His Excellencies Anſwer Thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <div n="1" type="letter">
+               <pb facs="tcp:107033:2"/>
+               <pb n="1" facs="tcp:107033:2"/>
+               <head>The Letter of the Lord Mayor, Aldermen, and Common Council of the City of <hi>LONDON.</hi>
+               </head>
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>WE dare not enter upon the anſwer to the merits of your Excellencies Letter of the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi rend="sup">th</hi> of <hi>November,</hi> which came to our hands the 23<hi rend="sup">d</hi> of the ſame (which was the firſt and only that came to us) with<g ref="char:EOLhyphen"/>out Prefacing our hearty, and thankful admiring and ac<g ref="char:EOLhyphen"/>knowledging the tranſcendent Mercy of God, in putting into your Heart thoſe Pious and Noble Reſolutions, to appear at ſuch an Exigent to be the glorious Inſtrument in his hand, both to Aſſert and Vindicate the greateſt Intereſt, both Civil and Religious of theſe Nations. And next, That your ſingular Humility of Spirit, and Affection to this City, in Communicating to us ſo early, thoſe your juſt Reſolves, and inviting us to ſhare in the Honour of Aſſiſting to the obtaining of thoſe great and glorious Ends,
+<pb n="2" facs="tcp:107033:3"/>in which the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ppineſs of theſe Nations in general, and of the City, as a Corporation, conſiſts.</p>
+               <p>In all which our Spirits were both enlightned and warm<g ref="char:EOLhyphen"/>ed by a ſpark from your zeal, and actuated by God to a pre<g ref="char:EOLhyphen"/>ſent activity in our ſphere and capacity in compliance with your Excellencies advice, as we truſt the whole world that hath ſeen our Actings ſince the receipt of your Letter, can bear us witneſs, and that we hope may be our ſufficient plea for pardon for our not returning a more timely anſwer to your Excellencies ſaid Letter. But we deſire your Ex<g ref="char:EOLhyphen"/>cellency to believe, that was principally retarded by ſuſpiti<g ref="char:EOLhyphen"/>on caſt on the Authentiqueneſs of it, by thoſe who had the confidence on that ſcore to impriſon the Deliverers, and by the Interpoſition of the Forces here, and led out againſt your Excellency, who lay in the paſſage to You.</p>
+               <p>But now (may it pleaſe Your Excellency) ſeeing it hath pleaſed God in ſome meaſure to remove thoſe Obſtructi<g ref="char:EOLhyphen"/>ons, We preſume by this to Aſſert in Writing, what VVe hope all Our Actings, ſince the Receipt of Your Excellen<g ref="char:EOLhyphen"/>cies Advice, have evidenced.</p>
+               <p>That VVe have cordially concurred with Your Excel<g ref="char:EOLhyphen"/>lency, in diſowning the Author of that Force who in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<g ref="char:EOLhyphen"/>rupted the Parliament, and raviſh'd the Birth-right of theſe Nations, by daring to null and make void Acts of Parlia<g ref="char:EOLhyphen"/>ment; and We think, have contributed ſomewhat by Gods bleſſing on Our Counſels, and Actings, to the preventing of the ſad conſequences of that exorbitant preſumption. How fully and entirely VVe comply with Your Excellen<g ref="char:EOLhyphen"/>cy, in aſſerting the Authority and Freedom of Parliaments, and the juſt Rights and Liberties of the People, a National Miniſtry, for the enlightning of the Ignorant, and ſuppreſ<g ref="char:EOLhyphen"/>ſing of Atheiſm, VVe humbly Referre Your Excellency to Our encloſed Declaration, and do ſeriouſly aſſure Your Excellency, That VVe ſhall (by Gods aſsiſtance) perſiſt
+<pb n="3" facs="tcp:107033:3"/>faithfully and vigorouſly in this Good Cauſe: And pray<g ref="char:EOLhyphen"/>ing God to preſerve Your Excellency, and thoſe Noble Commanders with You, in theſe Your Juſt, Honorable, and Chriſt<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Undertakings, ſhall Remain,</p>
+               <closer>
+                  <dateline>Guildhall, London, <date>Decemb. 29. 1659.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your Excellencies Moſt Affectionate and Faithful Friends and Servants, The</hi> Mayor, Aldermen, <hi>and</hi> Commons <hi>of the City of</hi> London, <hi>in</hi> Common-Council <hi>Aſsembled. In Their Names, and by Their Order,</hi> Sadler.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>This Letter is Conveighed by the Sword-bearer of</hi> London, <hi>by the ſpecial Directions of the</hi> Lord Mayor, Aldermen, <hi>and Court of</hi> Common-Council.</p>
+               </postscript>
+            </div>
+            <div n="2" type="letter">
+               <pb n="4" facs="tcp:107033:4"/>
+               <head>The Letter of his Excellency, the Lord General MONCK, in Anſwer to the former <hi>Letter.</hi>
+               </head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>I Received a Letter from your Lordſhip, and the reſt of the Common-Council, of the 29th of <hi>December,</hi> and do humbly thank you for that great eſteem which you are plea<g ref="char:EOLhyphen"/>ſed to put upon our poor Endeavours of the Parliaments Army under my Command, far tranſcending our Merits and Services. As to thoſe Ends which we then declared f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, I bleſs the Lord I acted Conſcience, and I hope we were found in the way of duty, and are reſolved by the grace of God to adhere to them, having found ſuch wonderful bleſ<g ref="char:EOLhyphen"/>ſings following us in theſe our juſt and honeſt Underta<g ref="char:EOLhyphen"/>kings.</p>
+               <p>As your prudent Counſels and couragious Actings <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere the great means under God of reſtoring this Parliament to its juſt and lawful Authority, ſo of the ſafety and welfare of the Nations, for which I do for my Self and the reſt of the Officers here, return my very hearty thanks, and we ſhall have ever cauſe to bleſs the Lord for this great mercy, in putting into your hearts ſuch righteous and honourable Re<g ref="char:EOLhyphen"/>ſolutions, to appear at ſuch a time when our Liberties and
+<pb n="5" facs="tcp:107033:4"/>Properties, and all that is dear unto us, even the Ordinances of our bleſſed Saviour, were in ſuch hazard.</p>
+               <p>Indeed, it was much in our hopes, that ſuch a glorious City, that had redeemed themſelves from ſlivery at the price of ſo much blood and treaſure, and had been the great Inſtruments in the hand of God for the carrying on the work of Reformation, and bringing three Nations our of the Captivity of Tyranny and Arbitrary Government, could not ever conſent to ſuch illegal and unjuſt proceed<g ref="char:EOLhyphen"/>ings. As wee do acknowledge your great activity in pro<g ref="char:EOLhyphen"/>moting thoſe great ends which wee lately repreſented to you, ſo wee do heartily thank you for the honor and encou<g ref="char:EOLhyphen"/>ragement which you have been pleaſed in this your Letter to give to the Parliaments Army here; for our ſelves, wee having nothing to ſeek (wee bleſſe the Lord) in all this Af<g ref="char:EOLhyphen"/>fair, but to endeavour the ſafety and ſettlement of theſe Nations in general, and of the famous City in particular.</p>
+               <p>Wee received your encloſed Declaration, and do cheer<g ref="char:EOLhyphen"/>fully join with you therein. And I do promiſe you for the Army under my Command, that they are reſolved (by the aſſiſtance of God) to ſtand by and maintain this preſent Parliament, as it ſate on <hi>October</hi> 11. from whom wee recei<g ref="char:EOLhyphen"/>ved our Commiſſions; and do hope, that you that have been ſo eminently Inſtrumental in their reſtoring, will hearti<g ref="char:EOLhyphen"/>ly concurr with us therein; and ſhall to the utmoſt of our power defend the freedom of ſucceſſive Parliaments, and the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erties Spiritual and Civil of the People in theſe Nations, and ſhall encourage in our Stations, the Godly and Learned Miniſters, and ſhall continue faithfull in this Good Cauſe, that the Nations may be ſtabliſhed in a free Common-wealth, and the Army kept in due obedience to the Civil Authority.</p>
+               <p>And as we have experienced the great affection of your City in ſuch a day of Darkneſs and great Tryal, ſo we ſhall
+<pb n="6" facs="tcp:107033:5"/>ever ſtudy to the utmoſt, to expreſs our ſervices for you, and ſhall not think our lives too precious to hazard for your welfare. I think to wait upon you ſhortly, and ſhall reſerve thoſe further acknowledgements to that opportunity, and remain,</p>
+               <closer>
+                  <dateline>
+                     <hi>New-Caſtle</hi> 
+                     <date>Jan. 6. 1659.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your Lordſhips very humble Servant.</hi> George Monck.</signed>
+               </closer>
+               <pb facs="tcp:107033:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
